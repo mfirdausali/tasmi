@@ -22,3 +22,7 @@ Tasmi' is a web application designed to facilitate the process of Hafazan, espec
    ```bash
    git clone https://github.com/yourusername/tasmi-app.git
 
+2. Install backend dependencies:
+
+cd tasmi-app
+npm install
